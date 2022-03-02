@@ -18,8 +18,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Mock-Up
-![mock-up] (/assets/images/mock-up.png)
+![mock-up] (/assets/css/images/mock-up.png)
 
 ## Website
 https://jessgallo.github.io/Horiseon-HTML-CSS-code-refactor/
-
