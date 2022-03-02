@@ -19,7 +19,7 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 
-![mock-up] (/assets/images/mock-up.png)
+![mock-up](assets/images/mock-up.png)
 
 
 ## Website
